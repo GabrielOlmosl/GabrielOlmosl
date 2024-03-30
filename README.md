@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GabrielOlmosl
+- 👋 Hi, I’m @GbrlOlmos
 - 👀 I’m interested in LLM
 
 <!---
